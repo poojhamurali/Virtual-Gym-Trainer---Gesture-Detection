@@ -1,5 +1,5 @@
 # **VIRTUAL GYM TRAINER USING GESTURE DETECTION – AN INTUITIVE APPROACH**
-The gesture detection has many kinds of applications in real life with integration of AI to it has a very great potential use cases.
+The gesture detection has many kinds of applications in real life with integration of AI to it and has a very great potential use cases.
 One of the ideas revolving around my mind is the **“VIRTUAL GYM TRAINER”.**  
 There are more people who doesn’t want to get to gym and prefer a quite good home gym.
 For those people having a gym trainer would cost them , instead of having a gym trainer they can make use of a virtual gym trainer which is kind of alexa that helps them with their workout .
